@@ -1,6 +1,6 @@
 # Plotly
 
-[LINK TO DEPLOY DASHBOARD](https://ianhernandezz.github.io/Plotly/)
+[LINK TO DEPLOY DASHBOARD](https://ianhernandezz.github.io/Belly-Button-Biodiversity-with-Plotly/)
 
 
 
